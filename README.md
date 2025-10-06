@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uplaksh Tyagi</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python developer and a Cyber Security Enthusiast from India</h3>
 <img align="center" width="400" src="https://i.pinimg.com/originals/32/42/cd/3242cd86b9986b537732ad0244f8e042.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uptouplaksh&label=Profile%20views&color=0e75b6&style=flat" alt="uptouplaksh" /> </p>
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/uptouplaksh" target="blank"><img src="https://img.shields.io/twitter/follow/uptouplaksh?logo=twitter&style=for-the-badge" alt="uptouplaksh" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently studying about **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
 - 💬 Ask me about **Python, HTML, CSS, JS**
 
-- 📫 How to reach me **uplakshtyagi1234@gmail.com**
+- 📫 How to reach me **uptouplaksh@gmail.com**
 
-- ⚡ Fun fact **I am dark, also by humor**
+- ⚡ Fun fact **I am dark, also by humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
